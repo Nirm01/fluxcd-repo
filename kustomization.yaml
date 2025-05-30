@@ -4,3 +4,4 @@ resources:
   - service.yaml
   - ingress.yaml
   - canary.yaml
+  - hpa.yaml
